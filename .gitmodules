@@ -1,0 +1,6 @@
+[submodule "deps/vcpkg"]
+	path = deps/vcpkg
+	url = https://github.com.cnpmjs.org/microsoft/vcpkg.git
+[submodule "deps/quickjs"]
+	path = deps/quickjs
+	url = https://github.com.cnpmjs.org/koush/quickjs.git

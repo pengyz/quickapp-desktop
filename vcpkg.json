@@ -1,0 +1,16 @@
+{
+    "name": "quickjsapp-desktop",
+    "version": "0.0.1",
+    "dependencies": [
+        "yoga",
+        {
+            "name": "imgui",
+            "features": [
+                "docking-experimental",
+                "opengl3-binding",
+                "glfw-binding"
+            ]
+        },
+        "uvw"
+    ]
+}
